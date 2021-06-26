@@ -1,0 +1,7 @@
+print("hi traveller")
+print("here is the chart of our fail for delux,semi delux and ordinary bus")
+print("             Delux          Semi Delux          Ordinary     ")
+print("child  -      300 Rs/-        250 Rs/-            200 Rs/-   ")
+print("young  -      500 Rs/-        450 Rs/-            400 Rs/-   ")
+print("old    -      450 Rs/-        400 Rs/-            300 Rs/-   ")
+print("Enter type of bus you want,1 for Delux,2 for Semi delux,3 for Ordinary bus")
